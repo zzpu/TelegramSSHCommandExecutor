@@ -3,9 +3,9 @@ package queue
 import (
 	"errors"
 
-	"../utils"
+	"tgssh/utils"
 
-	"../config"
+	"tgssh/config"
 )
 
 //Queue is a struct containing the first command pointer and the count

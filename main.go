@@ -9,9 +9,9 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 
-	"./config"
-	"./queue"
-	"./utils"
+	"tgssh/config"
+	"tgssh/queue"
+	"tgssh/utils"
 
 	"golang.org/x/crypto/ssh"
 
